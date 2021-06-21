@@ -8,9 +8,9 @@
 
 ## 关联项目
 
-> 自动配置: [Carnation-Spring-Boot-Autoconfigure](https://github.com/carnation-security/carnation-spring-boot-autoconfigure)
+> 自动配置 [![Release](https://jitpack.io/v/carnation-security/carnation-spring-boot-autoconfigure.svg)](https://jitpack.io/#carnation-security/carnation-spring-boot-autoconfigure): [Carnation-Spring-Boot-Autoconfigure](https://github.com/carnation-security/carnation-spring-boot-autoconfigure)
 >
-> SpringBoot Starter: [Carnation-Spring-Boot-Starter](https://github.com/carnation-security/carnation-spring-boot-starter)
+> SpringBoot Starter [![Release](https://jitpack.io/v/carnation-security/carnation-spring-boot-starter.svg)](https://jitpack.io/#carnation-security/carnation-spring-boot-starter): [Carnation-Spring-Boot-Starter](https://github.com/carnation-security/carnation-spring-boot-starter)
 >
 > 使用案例：[Carnation-Spring-Boot-Starter-Test](https://github.com/carnation-security/carnation-spring-boot-starter-test)
 
