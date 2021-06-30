@@ -143,4 +143,13 @@ public class Authenticator {
         tokenHandler.deleteToken(CarnationUtil.joinKey(tempConfigure.getRefreshTokenPrefix(), refreshToken));
         tokenHandler.deleteToken(CarnationUtil.joinKey(tempConfigure.getTokenPrefix(), token));
     }
+
+    /**
+     * 获取当前登录用户的token
+     *
+     * @return token
+     */
+    public String getToken() {
+        return SecurityContextHolder.getContext().getToken();
+    }
 }
